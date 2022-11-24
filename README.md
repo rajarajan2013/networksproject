@@ -1,9 +1,11 @@
 # Networks Project using Cisco Packet tracer
 
-->About
+->About:
+
 .This is a mini project of setting up a network in university
  using  Cisco packet tracer .
 
-->User instructions
+->User instructions:
+
 .The final project report is uploaded as pdf (".pdf").
 .The implementation of the project is uploaded as ".pkt" folder.
