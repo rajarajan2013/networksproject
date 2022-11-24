@@ -1,4 +1,4 @@
-# networksproject using CISCO PACKET TRACER
+# Networks Project using Cisco Packet tracer
 
 ->About
 .This is a mini project of setting up a network in university
